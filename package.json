@@ -1,0 +1,17 @@
+{
+  "name": "paas-cloud-landing",
+  "version": "1.0.0",
+  "description": "Basic responsive PaaS landing page with Node.js static server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "",
+  "license": "MIT"
+}
